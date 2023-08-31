@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Minecraft';
+  src: url(F77-Minecraft.ttf);
+}
+
+.body{
+    background-color:#55361f;
+}
+
+.logo {
+  position: relative;
+  bottom: 160px;
+}
+
+.minecraftfont {
+  font-family: 'Minecraft', sans-serif;
+}
+
+.homebtn {
+  position: relative;
+  bottom: 470px;
+  right: 60px;
+  width: 120px;
+}
+
+.playersbtn {
+  position: relative;
+  bottom: 511px;
+  right: 300px;
+  width: 100px;
+}
+
+.navitem {
+  color: black;
+}
+
+.pointer {cursor: pointer;}
+
+.nav{
+  position: relative;
+  width: 105.2%;
+  height: 200px;
+  left: 100px;
+  bottom: 8px;
+  background-color: #57a027;
+}
+/*.logo {
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  
+  @keyframes example {
+    from {width: 800px; height: 363;}
+    to {width: 700px; height: 252;}
+  }*/
